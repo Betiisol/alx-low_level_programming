@@ -4,10 +4,12 @@
  * main -prints the alphabet in lowercase 
  *
  * Return: Always 0 (Success)
+ *
  */
 
 int main(void)
 {
+
 char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 	int i;
