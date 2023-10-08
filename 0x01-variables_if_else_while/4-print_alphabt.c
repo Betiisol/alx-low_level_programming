@@ -3,9 +3,10 @@
 #include <string.h>
 
 /**
- * main - Prints the lower alphabet without q and e.
+ * main - prints the lower alphabet without q and e.
  *
  * Return: Always 0 (Success)
+ *
  */
 
 int main(void)
